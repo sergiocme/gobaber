@@ -1,7 +1,7 @@
 # ✂️ GoBaber ✂️ -- 🚧️ Under Development
 Gobaber is an entire ecosystem for scheduling cuts and hairstyles. Developed using technologies such as Node.js and React. The project is divided into 3 different repositories: api, web and mobile.
 
-![](/home/sergio/Videos/screenmove.gif)
+![](https://github.com/sergiocme/gobaber/blob/master/cover.gif)
 ---
 ## [Api](https://github.com/sergiocme/gobaber-api)
 Api is the core of Gobaber, developed using Node.js and Typescript, it is responsible for registering new users and new schedules, it also uses JSON Web Token(JWT) for user authentication.
